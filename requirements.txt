@@ -8,3 +8,5 @@ uvicorn
 joblib
 streamlit
 shap
+fpdf2
+plotly
